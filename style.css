@@ -1,12 +1,14 @@
 body
 		{
 				background:url('hands.jpg') no-repeat center center fixed;
-				background-size:contain;
+				background-size: cover;
 				font-family: 'Kameron', serif;
 		}
 
 ul {
 		list-style: none;
+		padding-left: 0;
+		text-align:center;
 }
 
 li {
