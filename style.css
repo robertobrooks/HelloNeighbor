@@ -1,13 +1,17 @@
 body
 		{
 				background:url('hands.jpg') no-repeat center center fixed;
-				background-size:100% auto;
-				-webkit-background-size: cover;
-				-moz-background-size: cover;
-				margin: 0;
-				padding: 0;
+				background-size:contain;
 				font-family: 'Kameron', serif;
 		}
+
+ul {
+		list-style: none;
+}
+
+li {
+	margin:10px;
+}
 
 .well {
 	   background-color: rgba(245, 245, 245, 0.7);
