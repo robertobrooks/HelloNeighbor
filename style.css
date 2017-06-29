@@ -1,7 +1,7 @@
 body
 		{
 				background:url('hands.jpg') no-repeat center center fixed;
-				background-size: cover;
+				background-size: cover, auto 100%;
 				font-family: 'Kameron', serif;
 		}
 
